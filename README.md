@@ -21,9 +21,9 @@ An *in vitro* experimental workflow to isolate Peripheral Blood Mononuclear Cell
 
 | Timepoint | 20x Magnification | 40x Magnification | Observed Cellular Morphology |
 | :--- | :---: | :---: | :--- |
-| **Day 0** *(Monocytes)* | ![Day 0 20x](Images/day_0/day0_20x.jpg) | ![Day 0 40x](Images/day_0/day0_40x.jpg) | Small, spherical, non-adherent peripheral monocytes[cite: 79] |
-| **Day 3** *(Differentiating)* | ![Day 3 20x](Images/day_3/day3_20x.jpg) | ![Day 3 40x](Images/day_3/day3_40x.jpg) | Early plate adherence, cell elongation, and initial cytoplasmic spreading[cite: 79] |
-| **Day 6** *(Macrophages)* | ![Day 6 20x](Images/day_6/day6_20x.jpg) | ![Day 6 40x](Images/day_6/day6_40x.jpg) | Large, firmly adherent, irregular/spread mature macrophage morphology[cite: 79] |
+| **Day 0** *(Monocytes)* | ![Day 0 20x](Images/day_0/day0_20x.jpg) | ![Day 0 40x](Images/day_0/day0_40x.jpg) | Small, spherical, non-adherent peripheral monocytes |
+| **Day 3** *(Differentiating)* | ![Day 3 20x](Images/day_3/day3_20x.jpg) | ![Day 3 40x](Images/day_3/day3_40x.jpg) | Early plate adherence, cell elongation, and initial cytoplasmic spreading |
+| **Day 6** *(Macrophages)* | ![Day 6 20x](Images/day_6/day6_20x.jpg) | ![Day 6 40x](Images/day_6/day6_40x.jpg) | Large, firmly adherent, irregular/spread mature macrophage morphology |
 
 ---
 
